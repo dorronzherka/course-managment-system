@@ -1,4 +1,5 @@
 # Course Managment System
+## This project alpha - version , it still being build
 
 This was college application project that i made for Applications of Web and E-technology course, the web app main objetive is for using managing courses. In the app you can maintain students list and courses , and the app is connected with google classroom api for maintaining courses presentation and more.
 
